@@ -1,0 +1,76 @@
+# Projet Scoring de Crédit
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Données sensibles
+*.env
+.env.local
+credentials.json
+secrets/
+
+# Données volumineuses (conserver dans data/raw/)
+# data/raw/*.csv  # Décommenter si les données sont trop volumineuses pour Git
+
+# Outputs générés
+outputs/models/*.joblib
+outputs/models/*.pkl
+outputs/predictions/*.csv
+outputs/predictions/*.parquet
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Mypy
+.mypy_cache/
+
+#Documentation
+.claude/

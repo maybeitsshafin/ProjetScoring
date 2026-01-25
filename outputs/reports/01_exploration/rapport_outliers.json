@@ -1,0 +1,202 @@
+{
+  "SENIORITY_YEARS": {
+    "count": 6290,
+    "pct": 4.84,
+    "lower_bound": -6.85,
+    "upper_bound": 15.15,
+    "min": 0.0,
+    "max": 40.0
+  },
+  "RESIDENCE_SINCE_YEARS": {
+    "count": 6280,
+    "pct": 4.83,
+    "lower_bound": -8.2,
+    "upper_bound": 18.2,
+    "min": 0.0,
+    "max": 50.0
+  },
+  "PHONE_VERIFIED": {
+    "count": 12993,
+    "pct": 9.99,
+    "lower_bound": 1.0,
+    "upper_bound": 1.0,
+    "min": 0,
+    "max": 1
+  },
+  "EMAIL_VERIFIED": {
+    "count": 19541,
+    "pct": 15.03,
+    "lower_bound": 1.0,
+    "upper_bound": 1.0,
+    "min": 0,
+    "max": 1
+  },
+  "NB_CREDIT_CARDS": {
+    "count": 10285,
+    "pct": 7.91,
+    "lower_bound": -0.5,
+    "upper_bound": 3.5,
+    "min": 0,
+    "max": 8
+  },
+  "HAS_PREVIOUS_DEFAULT": {
+    "count": 13052,
+    "pct": 10.04,
+    "lower_bound": 0.0,
+    "upper_bound": 0.0,
+    "min": 0,
+    "max": 1
+  },
+  "IS_FOREIGN_WORKER": {
+    "count": 15667,
+    "pct": 12.05,
+    "lower_bound": 0.0,
+    "upper_bound": 0.0,
+    "min": 0,
+    "max": 1
+  },
+  "LOAN_AMOUNT": {
+    "count": 5537,
+    "pct": 4.26,
+    "lower_bound": -13207.0,
+    "upper_bound": 76739.0,
+    "min": 2699.0,
+    "max": 250000.0
+  },
+  "INCOME_MONTHLY": {
+    "count": 4262,
+    "pct": 3.28,
+    "lower_bound": -509.0,
+    "upper_bound": 6171.0,
+    "min": 600.0,
+    "max": 19358.0
+  },
+  "EXPENSES_MONTHLY": {
+    "count": 4603,
+    "pct": 3.54,
+    "lower_bound": -482.5,
+    "upper_bound": 3561.5,
+    "min": 200.0,
+    "max": 15088.0
+  },
+  "MONTHLY_INSTALLMENT": {
+    "count": 8597,
+    "pct": 6.61,
+    "lower_bound": -728.84,
+    "upper_bound": 2459.18,
+    "min": 56.14,
+    "max": 10000.0
+  },
+  "DTI_RATIO": {
+    "count": 9453,
+    "pct": 7.27,
+    "lower_bound": -0.37,
+    "upper_bound": 1.04,
+    "min": 0.01,
+    "max": 2.5
+  },
+  "VAR_BALANCE_3M": {
+    "count": 5463,
+    "pct": 4.2,
+    "lower_bound": -3283022.8,
+    "upper_bound": 7368778.2,
+    "min": 0.0,
+    "max": 26749142.33
+  },
+  "NUM_LATE_PAYMENTS_12M": {
+    "count": 2998,
+    "pct": 2.31,
+    "lower_bound": -1.5,
+    "upper_bound": 2.5,
+    "min": 0,
+    "max": 6
+  },
+  "LAST_WITHDRAWAL_AMOUNT": {
+    "count": 5847,
+    "pct": 4.5,
+    "lower_bound": -117.25,
+    "upper_bound": 551.31,
+    "min": 16.09,
+    "max": 3303.77
+  },
+  "LAST_DEPOSIT_AMOUNT": {
+    "count": 7111,
+    "pct": 5.47,
+    "lower_bound": -342.5,
+    "upper_bound": 1240.64,
+    "min": 14.25,
+    "max": 8724.77
+  },
+  "ONLINE_TXN_COUNT_30D": {
+    "count": 1758,
+    "pct": 1.35,
+    "lower_bound": 4.0,
+    "upper_bound": 20.0,
+    "min": 1,
+    "max": 32
+  },
+  "INQUIRIES_6M": {
+    "count": 8208,
+    "pct": 6.31,
+    "lower_bound": -1.5,
+    "upper_bound": 2.5,
+    "min": 0,
+    "max": 7
+  },
+  "LTV_RATIO": {
+    "count": 9645,
+    "pct": 7.42,
+    "lower_bound": -0.14,
+    "upper_bound": 0.49,
+    "min": 0.05,
+    "max": 1.5
+  },
+  "BRANCH_VISITS_6M": {
+    "count": 8348,
+    "pct": 6.42,
+    "lower_bound": -0.5,
+    "upper_bound": 3.5,
+    "min": 0,
+    "max": 10
+  },
+  "APPROVAL_TIME_DAYS": {
+    "count": 6302,
+    "pct": 4.85,
+    "lower_bound": -4.15,
+    "upper_bound": 9.05,
+    "min": 0.0,
+    "max": 38.7
+  },
+  "MANUAL_REVIEW": {
+    "count": 26022,
+    "pct": 20.02,
+    "lower_bound": 0.0,
+    "upper_bound": 0.0,
+    "min": 0,
+    "max": 1
+  },
+  "GUARANTOR_PRESENT": {
+    "count": 15531,
+    "pct": 11.95,
+    "lower_bound": 0.0,
+    "upper_bound": 0.0,
+    "min": 0,
+    "max": 1
+  },
+  "INSTALLMENT_TO_INCOME": {
+    "count": 9453,
+    "pct": 7.27,
+    "lower_bound": -0.37,
+    "upper_bound": 1.04,
+    "min": 0.01,
+    "max": 2.5
+  },
+  "BALANCE_TO_LIMIT": {
+    "count": 13820,
+    "pct": 10.63,
+    "lower_bound": -0.58,
+    "upper_bound": 2.03,
+    "min": 0.0,
+    "max": 20.0
+  }
+}
